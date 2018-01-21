@@ -21,7 +21,7 @@
                   resolve( { status:'complete', data: data } )
                 }
               })
-            )
+            );
           });
         });
       }
